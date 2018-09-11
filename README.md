@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TestingAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
@@ -29,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Recipe
 Recipe and shopping angular built app
->>>>>>> 30203eb8f989a02ead422ed260d1329422fbdf37
+
